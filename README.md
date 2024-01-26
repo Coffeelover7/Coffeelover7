@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Vishmini</h1>
 <h3 align="center">I am a student Sri Lanka Institute of Advanced Technological Education in IT</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Ffemale-programmer&psig=AOvVaw11ZnAW655RqgrI73ZJDvNC&ust=1706376070224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiU-rbI-4MDFQAAAAAdAAAAABAW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coffeelover7&label=Profile%20views&color=0e75b6&style=flat" alt="Coffeelover7" /> </p>
 
